@@ -8,6 +8,7 @@
 	<?php
 		// all about string functions :
 		echo strlen("ai line koyta index ase, 1 theke hisab suru kore");
+		echo str_word_count("ai line koyta word ase");
 		
 	?>
 </body>
