@@ -8,6 +8,7 @@
 	<?php
 		// to know the types and value of a variable use this function :
 		$varibaleName=15;
+		$varibaleName=NULL;
 		var_dump ($varibaleName);
 		
 	?>
